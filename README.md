@@ -41,13 +41,28 @@ Below are screenshots to show the process.
 
 ## Illustrations
 
+
+Deploy Smart Contract for Joint Savings Account
+
 <img width="1599" alt="3_Deploy_Contract" src="https://user-images.githubusercontent.com/93550651/168490340-a6338c21-6ed8-4dad-b3eb-c5d4b2354c98.png">
+
+
+Set Accounts for Joint Savings Account
 
 <img width="1599" alt="4_setAccounts_Addresses" src="https://user-images.githubusercontent.com/93550651/168490348-1eaf3e55-8f9f-46f6-bc7f-89cc4cbabd03.png">
 
+
+Deposit 1 Ether to acct2
+
 <img width="1599" alt="5_Transaction1_Send1Eth" src="https://user-images.githubusercontent.com/93550651/168490355-e304283c-8368-416a-bfeb-d57c001af85d.png">
 
+
+Confirm acct2 has 1.5 Ether balance
+
 <img width="1599" alt="10_lastToWithdrawal_Address" src="https://user-images.githubusercontent.com/93550651/168490382-a1640340-f0ac-46b7-b0b5-100385797f3d.png">
+
+
+Review `lastToWithdraw` and `lastWithdraw' to confirm last transaction
 
 <img width="1599" alt="11_lastWithdrawAmount" src="https://user-images.githubusercontent.com/93550651/168490387-f918e2aa-6af5-42e2-95bf-53ec74d067c2.png">
 
