@@ -1,11 +1,3 @@
-# Smart_Contracts_Solidity
-Create a Solidity smart contract and  to automate hosting joint savings accounts
-
-https://vanity-eth.tk/
-
-Vanity-Eth acct1 address:
-Vanity-Eth acct2 address:
-
 pragma solidity ^0.5.0;
 
 contract JointSavings {
