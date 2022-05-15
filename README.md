@@ -66,6 +66,7 @@ Review `lastToWithdraw` and `lastWithdraw' to confirm last transaction
 
 <img width="1599" alt="11_lastWithdrawAmount" src="https://user-images.githubusercontent.com/93550651/168490387-f918e2aa-6af5-42e2-95bf-53ec74d067c2.png">
 
+Complete set of 11 screenshots illustrating the 10 steps above is located in `Execution_Results` folder.
 
 
 ## Contributors
@@ -75,6 +76,7 @@ Contributor: John Batarse
 Email: jbatarse@hotmail.com
 
 LinkedIn: [Find me on LinkedIn](<https://www.linkedin.com/in/john-a-batarse-760a26116/>)
+
 
 ## License
 
